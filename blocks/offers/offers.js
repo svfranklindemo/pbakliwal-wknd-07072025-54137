@@ -1,4 +1,4 @@
-import { getOffer } from '../../scripts/nissan-services.js';
+import { getOffer } from '../../scripts/mphasis-services.js';
 import Modal from '../../scripts/offer-modal.js';
 
 export default function decorate(block) {

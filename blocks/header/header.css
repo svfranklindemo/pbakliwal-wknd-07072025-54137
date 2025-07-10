@@ -48,7 +48,7 @@ header nav {
   padding: 0 16px;
   font-family: var(--type-base-font-family);
 
-  & .nissan-logo .icon {
+  & .mphasis-logo .icon {
     width: 100%;
     height: auto;
   }
@@ -538,7 +538,7 @@ header .nav-search-input .search_autocomplete .popover-container {
     &[aria-expanded='true'] {
       height: 100vh;
 
-      & .nissan-logo .icon-nissan-next-logo img {
+      & .mphasis-logo .icon-mphasis-next-logo img {
         filter: invert(1);
       }
     }

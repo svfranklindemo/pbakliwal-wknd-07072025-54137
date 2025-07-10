@@ -24,7 +24,7 @@ const getModal = (data) => `<div id="DIV_1">
                                         </h3>
                                         <div id="DIV_17">
                                             <h5 id="H5_18">
-                                                NISSAN LEAF
+                                                mphasis LEAF
                                             </h5>
                                             <h5 id="H5_19">
                                                 LEAF 39kWh 150PS Tekna
@@ -36,7 +36,7 @@ const getModal = (data) => `<div id="DIV_1">
                                             <picture id="PICTURE_22">
                                                 <source id="SOURCE_23" />
                                                 <source id="SOURCE_24" />
-                                                <source id="SOURCE_25" /><img alt="NISSAN LEAF" src="https://www-europe.nissan-cdn.net/content/dam/Nissan/gb/vehicles/packshots/2023/leaf/LEAF.jpg.ximg.s_12_m.smart.png" id="IMG_26" />
+                                                <source id="SOURCE_25" /><img alt="mphasis LEAF" src="https://www-europe.mphasis-cdn.net/content/dam/mphasis/gb/vehicles/packshots/2023/leaf/LEAF.jpg.ximg.s_12_m.smart.png" id="IMG_26" />
                                             </picture>
                                             <p id="P_27">
                                                 Image shown for guidance purpose only.
@@ -48,7 +48,7 @@ const getModal = (data) => `<div id="DIV_1">
  - ProPILOT Assist with Traffic Jam Pilot &amp; Lane Keep Assist
  - Bose® Premium Audio System
 
-The Nissan Intelligent Mobility features in the 100% Electric Nissan LEAF will change how you move forever, with technology that makes you feel connected, confident, and excited.
+The mphasis Intelligent Mobility features in the 100% Electric mphasis LEAF will change how you move forever, with technology that makes you feel connected, confident, and excited.
 
 To find out more, and to get a personalised quote, please contact your local dealer.
 \t\t\t\t\t\t\t\t\t\t</pre>
@@ -94,7 +94,7 @@ To find out more, and to get a personalised quote, please contact your local dea
                                                 </tr>
                                                 <tr id="TR_48">
                                                     <td id="TD_49">
-                                                        Nissan Deposit Contribution
+                                                        mphasis Deposit Contribution
                                                     </td>
                                                     <td id="TD_50">
                                                         £2,500
@@ -102,7 +102,7 @@ To find out more, and to get a personalised quote, please contact your local dea
                                                 </tr>
                                                 <tr id="TR_51">
                                                     <td id="TD_52">
-                                                        Total Deposit (Customer Deposit + Nissan Deposit Contribution)
+                                                        Total Deposit (Customer Deposit + mphasis Deposit Contribution)
                                                     </td>
                                                     <td id="TD_53">
                                                         £7,500
@@ -180,13 +180,13 @@ To find out more, and to get a personalised quote, please contact your local dea
                                         </h2>
                                         <ul id="UL_80">
                                             <li id="LI_81">
-                                                <a href="https://www.nissan.co.uk/vehicles/new-vehicles/cta=RCI-FC&amp;model=leaf&amp;vehicleCapCode=NILE00TEK5HE%20A%20%202&amp;price=32290" id="A_82">FINANCE CALCULATOR</a>
+                                                <a href="https://www.mphasis.co.uk/vehicles/new-vehicles/cta=RCI-FC&amp;model=leaf&amp;vehicleCapCode=NILE00TEK5HE%20A%20%202&amp;price=32290" id="A_82">FINANCE CALCULATOR</a>
                                             </li>
                                             <li id="LI_83">
-                                                <a href="https://callback.nissan.co.uk/request-a-quote?model=leaf" id="A_84">REQUEST A QUOTE</a>
+                                                <a href="https://callback.mphasis.co.uk/request-a-quote?model=leaf" id="A_84">REQUEST A QUOTE</a>
                                             </li>
                                             <li id="LI_85">
-                                                <a href="https://tools.nissan.co.uk/value-my-car" id="A_86">VALUE MY CAR</a>
+                                                <a href="https://tools.mphasis.co.uk/value-my-car" id="A_86">VALUE MY CAR</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -200,7 +200,7 @@ To find out more, and to get a personalised quote, please contact your local dea
                                         Terms &amp; Conditions
                                     </h4>
                                     <p id="P_91">
-                                        Offer valid from 1st May 2024 until 1st July 2024 at participating dealers only and subject to vehicle availability. To be eligible, vehicles must be ordered by 1st July 2024 and registered by 30th September 2024. Finance provided by Nissan Financial Services, Rivers Office Park, Denham Way, Maple Cross, Rickmansworth, WD3 9YS. Subject to status. Guarantees and indemnities may be required. You must be at least 18 and a UK resident (excluding the Channel Islands). NISSAN DEPOSIT CONTRIBUTION OF £2,500 IS ONLY AVAILABLE WHEN TAKEN ON 0% APR REPRESENTATIVE PCP NISSAN FINANCIAL SERVICES PRODUCT AND IS AVAILABLE ON All GRADES . Offer based on 8,000 miles pa, excess mileage 8p per mile. Offers not available in conjunction with any schemes or other offers. Vehicle price includes first registration fee and 12 months’ road fund licence. Nissan reserves the right to amend or withdraw offers at any time without prior notice, including in the case of any events or circumstances beyond Nissan’s reasonable control. Terms and conditions apply. Please refer to your local authorised Nissan dealer for further information and exact specifications. Your Nissan dealer is a credit broker and not a lender and can introduce you to a limited number of lenders and their finance products. You must decide whether the finance product is right for you. Lenders will typically pay commission to your Nissan dealer, being either a fixed fee or a fixed percentage of the amount you borrow. Commission rates between lenders could vary, but the commission received by your Nissan dealer does not influence the interest rate you will pay.
+                                        Offer valid from 1st May 2024 until 1st July 2024 at participating dealers only and subject to vehicle availability. To be eligible, vehicles must be ordered by 1st July 2024 and registered by 30th September 2024. Finance provided by mphasis Financial Services, Rivers Office Park, Denham Way, Maple Cross, Rickmansworth, WD3 9YS. Subject to status. Guarantees and indemnities may be required. You must be at least 18 and a UK resident (excluding the Channel Islands). mphasis DEPOSIT CONTRIBUTION OF £2,500 IS ONLY AVAILABLE WHEN TAKEN ON 0% APR REPRESENTATIVE PCP mphasis FINANCIAL SERVICES PRODUCT AND IS AVAILABLE ON All GRADES . Offer based on 8,000 miles pa, excess mileage 8p per mile. Offers not available in conjunction with any schemes or other offers. Vehicle price includes first registration fee and 12 months’ road fund licence. mphasis reserves the right to amend or withdraw offers at any time without prior notice, including in the case of any events or circumstances beyond mphasis’s reasonable control. Terms and conditions apply. Please refer to your local authorised mphasis dealer for further information and exact specifications. Your mphasis dealer is a credit broker and not a lender and can introduce you to a limited number of lenders and their finance products. You must decide whether the finance product is right for you. Lenders will typically pay commission to your mphasis dealer, being either a fixed fee or a fixed percentage of the amount you borrow. Commission rates between lenders could vary, but the commission received by your mphasis dealer does not influence the interest rate you will pay.
                                     </p>
                                 </div>
                             </div>

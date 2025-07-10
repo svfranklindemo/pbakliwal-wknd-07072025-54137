@@ -1,4 +1,4 @@
-import { getPrice } from '../../scripts/nissan-services.js';
+import { getPrice } from '../../scripts/mphasis-services.js';
 
 // Function to replace {price} with the actual price
 function reValidatePriceInfo(block) {

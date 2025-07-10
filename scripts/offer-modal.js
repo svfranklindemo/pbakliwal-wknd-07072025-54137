@@ -215,13 +215,13 @@ class Modal {
 
     modal.classList.add('offer-modal-container');
       let dataStr = JSON.stringify(data);
-      dataStr = dataStr.replaceAll("Nissan LEAF","");
-      dataStr = dataStr.replaceAll("NISSAN LEAF","");
-      dataStr = dataStr.replaceAll("Nissan ","Carvelo ");
-      dataStr = dataStr.replaceAll("NISSAN ","Carvelo ");
-      dataStr = dataStr.replaceAll(/Nissan’s/g, "Carvelo’s");
-      dataStr = dataStr.replaceAll("NissanConnect ","Carvelo ");
-      dataStr = dataStr.replaceAll('https://www.nissan.co.uk/ownership/nissan-infotainment-system/android-auto-apple-carplay.html','https://www.carvelo.co.uk/ownership/carvelo-infotainment-system/android-auto-apple-carplay.html')
+      dataStr = dataStr.replaceAll("mphasis LEAF","");
+      dataStr = dataStr.replaceAll("mphasis LEAF","");
+      dataStr = dataStr.replaceAll("mphasis ","Carvelo ");
+      dataStr = dataStr.replaceAll("mphasis ","Carvelo ");
+      dataStr = dataStr.replaceAll(/mphasis’s/g, "Carvelo’s");
+      dataStr = dataStr.replaceAll("mphasisConnect ","Carvelo ");
+      dataStr = dataStr.replaceAll('https://www.mphasis.co.uk/ownership/mphasis-infotainment-system/android-auto-apple-carplay.html','https://www.carvelo.co.uk/ownership/carvelo-infotainment-system/android-auto-apple-carplay.html')
       modal.innerHTML = getModal(JSON.parse(dataStr));
 
     this.modalContainer.appendChild(modal);
